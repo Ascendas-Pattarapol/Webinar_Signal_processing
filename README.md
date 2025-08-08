@@ -40,3 +40,15 @@ To follow along with the hands-on examples, ensure the following are installed:
 - MATLAB
 - Signal Processing Toolbox
 - Wavelet Toolbox *(required for denoising functions)*
+
+---
+
+## 📬 Contact
+
+If you have any questions or would like to follow up after the session, feel free to get in touch:
+
+**Pattarapol S.**  
+Application Engineer  
+Ascendas System Co., Ltd.  
+📧 **pattarapol@ascendas-asia.com**  
+📞 **(+66) 63 823 3648**
